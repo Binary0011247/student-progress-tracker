@@ -13,7 +13,7 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 ## Table of Contents
 
-- [Live Demo](#live-demo)
+- [Demo Video](#live-demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Architecture](#project-architecture)
@@ -25,7 +25,7 @@ A full-stack MERN application designed to manage and visualize student progress 
 - [Screenshots](#screenshots)
 - [Author](#author)
 
-## Live Demo
+## Demo Video
 
 [Link to your live demo] <!-- If you deploy this project (e.g., on Vercel/Netlify for frontend, Render/Heroku for backend), put the link here. -->
 
@@ -137,11 +137,7 @@ To run this project, you will need to add the following environment variables to
     -   **SendGrid:**
         -   `SENDGRID_API_KEY`: Your API key from SendGrid.
         -   `SENDGRID_FROM_EMAIL`: The email address you have verified as a Sender Identity in SendGrid.
-    -   **Gmail (for development):**
-        -   `EMAIL_HOST`: `smtp.gmail.com`
-        -   `EMAIL_PORT`: `587`
-        -   `EMAIL_USER`: Your Gmail address.
-        -   `EMAIL_PASS`: Your 16-character Gmail "App Password".
+   
 
 ## API Endpoints
 

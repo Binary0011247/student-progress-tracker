@@ -4,6 +4,8 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 <br/>
 
+
+
 <!-- It's highly recommended to take a screenshot of your app and upload it to a service like imgur.com, then replace this link. -->
 <p align="center">
   <img src="student-progress-tracker\client\src\assets\Screenshot 2025-06-17 210404.png" alt="Application Screenshot" width="80%">

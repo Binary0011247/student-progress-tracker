@@ -160,7 +160,7 @@ A brief overview of the available API routes:
 
 **Student Profile - Contest History**
 <br/>
-<img src="https://drive.google.com/file/d/1k7dWG7p3wumDFoN2eIwB1aecWv5ZXUSv/view?usp=sharing" alt="Contest History Screenshot">
+![Image](https://github.com/user-attachments/assets/b24466ff-e237-44df-9e2b-5947ef0cb57a)
 <br/>
 <br/>
 

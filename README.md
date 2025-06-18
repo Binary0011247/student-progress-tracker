@@ -7,9 +7,9 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 
 <!-- It's highly recommended to take a screenshot of your app and upload it to a service like imgur.com, then replace this link. -->
-<p align="center">
+
  ![Image](https://github.com/user-attachments/assets/8c86cc92-fdef-4259-b757-3d2252745cb0)
-</p>
+
 
 <br/>
 

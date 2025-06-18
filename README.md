@@ -6,7 +6,7 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 <!-- It's highly recommended to take a screenshot of your app and upload it to a service like imgur.com, then replace this link. -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1qotyr7neJt6zc6PIOlC3QtRIuTtowdou/view?usp=sharing" alt="Application Screenshot" width="80%">
+  <img src="![Image](https://github.com/user-attachments/assets/6550e0b2-57cf-47bc-8c66-c6a94e6e5fbe)" alt="Application Screenshot" width="80%">
 </p>
 
 <br/>

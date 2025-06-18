@@ -6,7 +6,7 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 <!-- It's highly recommended to take a screenshot of your app and upload it to a service like imgur.com, then replace this link. -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=App+Screenshot+Here" alt="Application Screenshot" width="80%">
+  <img src="https://drive.google.com/file/d/1qotyr7neJt6zc6PIOlC3QtRIuTtowdou/view?usp=sharing" alt="Application Screenshot" width="80%">
 </p>
 
 <br/>
@@ -158,17 +158,17 @@ A brief overview of the available API routes:
 
 **Student Profile - Contest History**
 <br/>
-<img src="https://via.placeholder.com/600x300.png?text=Contest+History+Screenshot" alt="Contest History Screenshot">
+<img src="https://drive.google.com/file/d/1k7dWG7p3wumDFoN2eIwB1aecWv5ZXUSv/view?usp=sharing" alt="Contest History Screenshot">
 <br/>
 <br/>
 
 **Student Profile - Problem Solving Data**
 <br/>
-<img src="https://via.placeholder.com/600x300.png?text=Problem+Data+Screenshot" alt="Problem Data Screenshot">
+<img src="https://drive.google.com/file/d/1k7dWG7p3wumDFoN2eIwB1aecWv5ZXUSv/view?usp=sharing" alt="Problem Data Screenshot">
 <br/>
 
 ## Author
 
 - **Shubh Gupta**
 - GitHub: [@Binary0011247](https://github.com/Binary0011247)
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn:www.linkedin.com/in/shubh-gupta-453855300

@@ -166,7 +166,7 @@ A brief overview of the available API routes:
 
 **Student Profile - Problem Solving Data**
 <br/>
-<img src="https://drive.google.com/file/d/1k7dWG7p3wumDFoN2eIwB1aecWv5ZXUSv/view?usp=sharing" alt="Problem Data Screenshot">
+![Image](https://github.com/user-attachments/assets/5b871527-73c3-4d92-81a9-f9f1eedbd1cd)
 <br/>
 
 ## Author

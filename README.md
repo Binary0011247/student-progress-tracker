@@ -166,7 +166,7 @@ A brief overview of the available API routes:
 
 **Student Profile - Problem Solving Data**
 <br/>
-![Image](https://github.com/user-attachments/assets/5b871527-73c3-4d92-81a9-f9f1eedbd1cd)
+![Image](https://github.com/user-attachments/assets/6c03d648-d3bb-4577-9729-0523970fcdf1)
 <br/>
 
 ## Author

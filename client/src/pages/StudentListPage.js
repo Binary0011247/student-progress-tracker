@@ -54,27 +54,18 @@ const StudentListPage = () => {
     
     // --- THIS IS THE CORRECTED FUNCTION ---
     const handleDownloadCSV = () => {
-         const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001/api';
-         window.open(`${API_BASE_URL}/students/download`); // Your backend server URL
+        // 1. Get the base API URL from the environment variable.
+        //    This variable is defined by Vercel during the build process.
+        const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5001/api';
 
-        // Create a temporary link element
-        const link = document.createElement('a');
-        
-        // Set its href to the full URL of your download endpoint
-        link.href = `${API_URL}/api/students/download`; 
-        
-        // This attribute tells the browser to download the file instead of navigating to it
-        link.setAttribute('download', 'students.csv'); 
+        // 2. Construct the full download URL.
+        const downloadUrl = `${apiUrl}/students/download`;
 
-        // Append the link to the document
-        document.body.appendChild(link);
-        
-        // Programmatically click the link to trigger the download
-        link.click();
-        
-        // Clean up by removing the temporary link
-        document.body.removeChild(link);
+        // 3. Open the URL in a new tab. The browser will handle the download
+        //    because of the headers sent by the backend. This is the simplest method.
+        window.open(downloadUrl, '_blank');
     };
+
     
     const handleOpenModal = () => {
         setStudentToEdit(null); // Clear any previous student data for "add" mode

@@ -29,7 +29,7 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 ## Demo Video
 
-[Link to your live demo] <!-- If you deploy this project (e.g., on Vercel/Netlify for frontend, Render/Heroku for backend), put the link here. -->
+[https://drive.google.com/file/d/1_9lEuYad_m3CgR-VsxXByRpHZDUstIRz/view?usp=drive_link] <!-- If you deploy this project (e.g., on Vercel/Netlify for frontend, Render/Heroku for backend), put the link here. -->
 
 ## Features
 

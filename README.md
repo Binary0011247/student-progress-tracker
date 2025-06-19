@@ -75,7 +75,7 @@ A full-stack MERN application designed to manage and visualize student progress 
 - **Services & Tools:**
   - **Codeforces API**: Source of all student contest and submission data.
   - **Node Cron**: For scheduling the daily background jobs.
-  - **Nodemailer / SendGrid**: For sending automated emails.
+  - **SendGrid**: For sending automated emails.
 
 ## Project Architecture
 

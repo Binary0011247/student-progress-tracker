@@ -54,7 +54,8 @@ const StudentListPage = () => {
     
     // --- THIS IS THE CORRECTED FUNCTION ---
     const handleDownloadCSV = () => {
-        const API_URL = 'http://localhost:5001'; // Your backend server URL
+         const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001/api';
+         window.open(`${API_BASE_URL}/students/download`); // Your backend server URL
 
         // Create a temporary link element
         const link = document.createElement('a');

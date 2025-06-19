@@ -7,15 +7,14 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 
 <!-- It's highly recommended to take a screenshot of your app and upload it to a service like imgur.com, then replace this link. -->
-Deployed Link:- https://student-progress-tracker-7j6d.vercel.app/
-Demo Video:- ![Image](https://github.com/user-attachments/assets/8c86cc92-fdef-4259-b757-3d2252745cb0)
+ ![Image](https://github.com/user-attachments/assets/8c86cc92-fdef-4259-b757-3d2252745cb0)
 
 
 <br/>
 
 ## Table of Contents
 
-- [Demo Video](#live-demo)
+- [Live Demo](#live-demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Architecture](#project-architecture)
@@ -27,9 +26,9 @@ Demo Video:- ![Image](https://github.com/user-attachments/assets/8c86cc92-fdef-4
 - [Screenshots](#screenshots)
 - [Author](#author)
 
-## Demo Video
-
-[https://drive.google.com/file/d/1_9lEuYad_m3CgR-VsxXByRpHZDUstIRz/view?usp=drive_link] <!-- If you deploy this project (e.g., on Vercel/Netlify for frontend, Render/Heroku for backend), put the link here. -->
+## Live Demo
+Deployment Link:- https://student-progress-tracker-7j6d.vercel.app/
+Demo Video:-[https://drive.google.com/file/d/1_9lEuYad_m3CgR-VsxXByRpHZDUstIRz/view?usp=drive_link] <!-- If you deploy this project (e.g., on Vercel/Netlify for frontend, Render/Heroku for backend), put the link here. -->
 
 ## Features
 

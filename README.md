@@ -4,10 +4,12 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 <br/>
 
+
+
 <!-- It's highly recommended to take a screenshot of your app and upload it to a service like imgur.com, then replace this link. -->
-<p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/6550e0b2-57cf-47bc-8c66-c6a94e6e5fbe)" alt="Application Screenshot" width="80%">
-</p>
+
+ ![Image](https://github.com/user-attachments/assets/8c86cc92-fdef-4259-b757-3d2252745cb0)
+
 
 <br/>
 
@@ -27,7 +29,7 @@ A full-stack MERN application designed to manage and visualize student progress 
 
 ## Demo Video
 
-[Link to your live demo] <!-- If you deploy this project (e.g., on Vercel/Netlify for frontend, Render/Heroku for backend), put the link here. -->
+[https://drive.google.com/file/d/1_9lEuYad_m3CgR-VsxXByRpHZDUstIRz/view?usp=drive_link] <!-- If you deploy this project (e.g., on Vercel/Netlify for frontend, Render/Heroku for backend), put the link here. -->
 
 ## Features
 
@@ -73,7 +75,7 @@ A full-stack MERN application designed to manage and visualize student progress 
 - **Services & Tools:**
   - **Codeforces API**: Source of all student contest and submission data.
   - **Node Cron**: For scheduling the daily background jobs.
-  - **Nodemailer / SendGrid**: For sending automated emails.
+  - **SendGrid**: For sending automated emails.
 
 ## Project Architecture
 
@@ -158,13 +160,13 @@ A brief overview of the available API routes:
 
 **Student Profile - Contest History**
 <br/>
-<img src="https://drive.google.com/file/d/1k7dWG7p3wumDFoN2eIwB1aecWv5ZXUSv/view?usp=sharing" alt="Contest History Screenshot">
+![Image](https://github.com/user-attachments/assets/b24466ff-e237-44df-9e2b-5947ef0cb57a)
 <br/>
 <br/>
 
 **Student Profile - Problem Solving Data**
 <br/>
-<img src="https://drive.google.com/file/d/1k7dWG7p3wumDFoN2eIwB1aecWv5ZXUSv/view?usp=sharing" alt="Problem Data Screenshot">
+![Image](https://github.com/user-attachments/assets/6c03d648-d3bb-4577-9729-0523970fcdf1)
 <br/>
 
 ## Author
